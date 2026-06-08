@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Yash</h1>
-  <h3>🤖 Robotics Engineer | Embodied AI | Tech Lead @ Bidyut Innovation</h3>
+  <h3>🤖 Robotics Engineer | Embodied AI </h3>
 </div>
 
 ---
