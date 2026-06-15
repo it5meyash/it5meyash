@@ -1,120 +1,73 @@
 <div align="center">
-  <h1>👋 Hi, I'm Yash</h1>
-  <h3>🤖 Robotics Engineer | Embodied AI </h3>
+
+# Yash
+### Robotics Engineer · Embodied AI
+
+*I don't just train models — I make them move real robots in the real world.*
+
+[![Instagram](https://img.shields.io/badge/Instagram-@it5meyash-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/it5meyash)
+
 </div>
 
 ---
 
-# 🚀 About Me
+## What I build
 
-I build **real-world robotic systems** that combine perception, intelligence, and action.
+End-to-end robotic systems that perceive, reason, and act — deployed in the real world, not just simulations.
 
-- 🤖 Working on **Unitree GO2, Franka Robots & Autonomous Systems**
-- 🧠 Exploring **Vision-Language-Action (VLA) / Embodied AI**
-- 👁️ Strong in **Computer Vision, Sensor Fusion & Real-Time Systems**
-- ⚙️ Love building **end-to-end pipelines (Perception → Decision → Control)**
-- 🏭 Experience in **industrial + client-facing robotics deployments (EY, Experience Centres)**
-
----
-
-# 🧠 What I Do
-
-- Build **autonomous navigation systems** using LiDAR + Depth cameras  
-- Develop **real-time perception pipelines (YOLO, AprilTag, SLAM)**  
-- Integrate **multi-sensor robotics systems** (LiDAR + Thermal + RGB-D)  
-- Work on **robot learning & VLA systems (Moondream2 + Robotics SDKs)**  
-- Deploy **production-ready robotics solutions**, not just simulations  
+- **Autonomous navigation** — LiDAR + depth camera fusion, SLAM, real-time obstacle handling
+- **Perception pipelines** — YOLO, AprilTag detection, RGB-D, thermal imaging
+- **Vision-Language-Action (VLA)** — closing the loop from scene understanding to robot motion
+- **Production deployments** — industrial automation, client-facing experience centres (EY)
 
 ---
 
-# 🔥 Highlight Projects
+## Projects
 
-### 🐕 Unitree GO2 Autonomous Robot
-- Multi-sensor fusion (LiDAR + RealSense)
-- Navigation + inspection pipeline
-- Working toward full autonomy
+### Unitree GO2 — Autonomous Mobile Robot
+Multi-sensor fusion (LiDAR + RealSense D435) powering a full navigation and inspection pipeline. Working toward complete autonomy without human intervention.
 
----
+### Vision-Language-Action System (GO2)
+Real-time pipeline: scene → Moondream2 reasoning → Unitree SDK action. Perception and language grounded to physical motion on a live robot.
 
-### 🧠 Vision-Language-Action System (GO2)
-- Real-time pipeline: perception → reasoning → action  
-- Integrated with **Moondream2 + Unitree SDK**
+### SpatialVLA + Real Robot Integration
+Distributed architecture across Desktop, NUC, and robot. ZMQ messaging for low-latency, real-time command execution.
 
----
+### Franka Chess Robot
+Robotic manipulation + chess engine integration. Perception (board state via camera) drives grasp planning and piece movement.
 
-### ♟️ Franka Chess Robot
-- Robotic manipulation + decision-making  
-- Bridging perception with control
+### Face Recognition Alert System
+YOLOv8 + RealSense + Jetson Orin Nano. Detects unknown persons and fires real-time alerts. Edge-deployed, production-ready.
 
----
-
-### 🛰️ SpatialVLA + Real Robot Integration
-- Distributed system (Desktop + NUC + Robot)
-- ZMQ communication + real-time execution
+### Industrial PP Winding Automation
+Computer-vision-guided automation for a real manufacturing line. Built with reliability and maintainability as primary constraints.
 
 ---
 
-### 👤 Face Recognition Alert System
-- YOLOv8 + RealSense + Jetson Orin Nano  
-- Sends alerts for unknown persons  
+## Stack
+
+**Robotics & Hardware**
+ROS2 · Unitree SDK · Intel RealSense · Hesai XT16 LiDAR · Jetson Orin Nano · Franka Emika
+
+**Perception & AI**
+OpenCV · PyTorch · YOLOv8 · AprilTag · SLAM · Moondream2 · Sensor Fusion
+
+**Systems & Infra**
+Python · C++ · Linux (Ubuntu) · ZMQ · NATS · Edge AI
+
+**Exploring**
+SpatialVLA · Robot Learning · Control Systems · Embodied AI
 
 ---
 
-### 🏭 Industrial Automation (PP Winding)
-- Real-world manufacturing solution  
-- Focus on deployment & reliability  
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=it5meyash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=it5meyash&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=it5meyash&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-# ⚙️ Tech Stack
+## Now
 
-### 🤖 Robotics & Systems
-- ROS2, Unitree SDK, RealSense, LiDAR (Hesai XT16)
-- ZMQ, NATS (event-driven systems)
-
-### 👁️ Perception & AI
-- OpenCV, PyTorch, YOLOv8
-- AprilTag Detection
-- SLAM, Sensor Fusion
-
-### 🧠 Emerging Tech
-- Vision-Language-Action (VLA)
-- Embodied AI Systems
-- Robot Learning (Exploring)
-
-### 💻 Core
-- Python, C++, Linux (Ubuntu)
-- Jetson, Edge AI Systems
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=it5meyash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=it5meyash&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=it5meyash&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building **real-time embodied AI systems**
-- 🤖 Scaling robotics from demos → real deployments
-- 🧠 Learning deeper **control systems & robot learning**
-
----
-
-# 📫 Connect With Me
-
-- 📷 Instagram: https://instagram.com/it5meyash  
-
----
-
-# ⚡ Fun Fact
-
-I don’t just train models —  
-I make them **move real robots in the real world**.
-
----
+Building real-time embodied AI systems · Scaling robotics from demos to deployments · Going deeper on control theory and robot learning
