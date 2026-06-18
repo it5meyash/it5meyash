@@ -5,6 +5,8 @@
 
 *I don't just train models — I make them move real robots in the real world.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Mulewa-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-mulewa-24b046194/)
+[![Email](https://img.shields.io/badge/Email-yashmulewa3@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashmulewa3@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@it5meyash-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/it5meyash)
 
 </div>
